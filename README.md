@@ -1,2 +1,6 @@
 # ABS
-The password of the .RAR is (Anti-noob protection, you need to decrypt it's easy): ==wM8ASYuFWdqlmch10XlZ3bM9VS
+NO PASSWORD FREE TO DOWNLOAD
+
+VERSION 0.2.2.0
+  -Added runpe stability
+  
