@@ -1,8 +1,23 @@
 # ABS
 NO PASSWORD FREE TO DOWNLOAD
 
+[RAT Support]
+-njRAT (All Version, tested 0.7d + 0.6.4)
+-NanoCore (1.2.2.0)
+-Spy-net 2.6 (Tested OK !)
+-Cybergates 1.07.5 (Tested OK !)
+-Darktrack (Tested OK !, this rat is buggy)
+-Darkcomet (Tested OK !, no runtime detection if you pack the dc server with UPX !)
+-Imminent monitor 5.0 (Tested OK !)
+
+
 VERSION 0.2.2.0 - (05-12-2017) (12-05-2017)
   -Added runpe stability
+  -
+  
+  
+  
+  
   
 Confuser.CLI.exe                        - f03e1cfb8bfed0b793243a3fe5b19588 - https://www.virustotal.com/fr/file/2b3e5cb7f96589e5377700a5f7f25e9fc6a14539e85256e6ac6e85c07f769f61/analysis/
 Confuser.Core.dll                       - bfaef0223d28bd1acfb91a3b12e17fe9 - https://www.virustotal.com/fr/file/25500b3cfc8e02a70e97f43603f643e96becba1b05ae8931130963d8c4a040db/analysis/
